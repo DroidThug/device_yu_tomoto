@@ -1,0 +1,3 @@
+add_lunch_combo XOS_tomato-user
+add_lunch_combo XOS_tomato-userdebug
+add_lunch_combo XOS_tomato-eng
