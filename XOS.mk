@@ -20,7 +20,7 @@ $(call inherit-product, vendor/xos/config/common.mk)
 # Must define platform variant before including any common things
 TARGET_BOARD_PLATFORM_VARIANT := msm8939
 
-PRODUCT_NAME := xos_tomato
+PRODUCT_NAME := XOS_tomato
 BOARD_VENDOR := yu
 PRODUCT_DEVICE := tomato
 
